@@ -1,5 +1,5 @@
 # BIGVU
-Download the project zip.
+Download the project zip.  
 In the project directory open cmd and run the following commands:
   npm init
   npm i express
