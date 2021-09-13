@@ -1,0 +1,24 @@
+{
+  "name": "bigvu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "body-parser": "^1.19.0",
+    "capture-website": "^2.0.2",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "open": "^8.2.1",
+    "puppeteer": "^10.2.0",
+    "screenshot-desktop": "^1.12.7",
+    "url-to-screenshot": "^3.0.0"
+  }
+}
